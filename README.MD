@@ -8,7 +8,7 @@ Your Name is: Emir<br/>
 Your Surname is: Yılmaz<br/>
 Your Department is : Computer Engineering<br/>
 Your Number is: 615030887<br/>
-Your email is: 659482546@stdnt.abc.edu.com<br/>
+Your email is: 615030887@stdnt.abc.edu.com<br/>
 Your password is: A49245BB80<br/>
 Registration completed.<br/>
 Welcome to ABC University!
