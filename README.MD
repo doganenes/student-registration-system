@@ -1,4 +1,4 @@
-# Student Recording System
+# Student Registration System
 
 * Student Registration System for ABC University.
 * Student has a <b>firstName</b>, <b>lastName</b>, <b>department</b>, <b>number (random) </b>, </b>password (random)</b> and </b>email</b> with extension "<b>edu</b>".  
